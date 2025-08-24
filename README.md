@@ -31,10 +31,15 @@ Due to privacy concerns, the dataset is not directly uploaded here. You can down
 **🚀 Features Implemented**
 
 ✔️ Data preprocessing and cleaning
+
 ✔️ Handling class imbalance using SMOTE / undersampling
+
 ✔️ Feature scaling (StandardScaler)
+
 ✔️ Model training with multiple classifiers
+
 ✔️ Performance evaluation using confusion matrix & ROC curves
+
 ✔️ Insights on fraud detection challenges
 
 **📈 Results**
